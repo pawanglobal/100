@@ -1,0 +1,19 @@
+/* Make h1 puple */
+h1{
+    color: purple;
+}
+/* All h2 yellow */
+h2{
+    color: yellow;
+}
+/* World and zebra are direct child */
+section > h2{
+    color: blue;
+}
+/* Direct child */
+article > h2{
+    color: red;
+}
+section article h2{
+    color: orange;
+}

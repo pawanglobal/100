@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+h3{
+    text-align: center;
+}
+body{
+    background-color: skyblue;
+    border: 5px solid green;
+    color: white;
+}
+img{
+    float: right;
+    width: 200px;
+}
