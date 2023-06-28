@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+header, footer{
+    height: 100px;
+    border: 2px solid black;
+    clear: both;
+}
+
+.zebra{
+    height: 150px;
+    border: 2px solid black;
+}
+
+.dog{
+    float: left;
+}
+
+.bob{
+    height: 200px;
+    width:35%;
+    border: 2px solid black;
+}
+
+.ox{
+    height: 200px;
+    width:65%;
+    border: 2px solid black;
+}

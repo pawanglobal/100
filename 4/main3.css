@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+header, footer{
+    height: 175px;
+    border: 2px solid black;
+    clear: both
+}
+
+.bob{
+    float: left;
+}
+
+.bull{
+    height: 300px;
+    width: 20%;
+    border: 2px solid black;
+}
+
+.ox{
+    height: 300px;
+    width:40%;
+    border: 2px solid black;
+}
+
+.goat{
+    height: 300px;
+    width:20%;
+    border: 2px solid black;
+}
+
+.dog{
+    height: 300px;
+    width:20%;
+    border: 2px solid black;
+}
